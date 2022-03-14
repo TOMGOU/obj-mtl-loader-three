@@ -1,0 +1,30 @@
+{
+  "name": "obj-mtl-loader-three",
+  "version": "1.0.0",
+  "description": "threejs newest obj & mtl loader with npm dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TOMGOU/obj-mtl-loader-three.git"
+  },
+  "keywords": [
+    "objloader",
+    "mtlloader",
+    "obj",
+    "mtl",
+    "loader",
+    "three"
+  ],
+  "author": "tomgou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TOMGOU/obj-mtl-loader-three/issues"
+  },
+  "homepage": "https://github.com/TOMGOU/obj-mtl-loader-three#readme",
+  "peerDependencies": {
+    "three": "^0.138.3"
+  }
+}
